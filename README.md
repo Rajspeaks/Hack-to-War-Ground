@@ -1,2 +1,2 @@
-# Hacktoberfest-2021
-A repository dedicated to Hacktoberfest 2021
+# Hacktoberfest2021
+<img src="https://github.com/Rajspeaks/Hacktoberfest-2021/blob/main/hacktoberfest%202021.png">
