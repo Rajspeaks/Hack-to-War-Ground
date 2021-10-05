@@ -1,7 +1,6 @@
 # Hacktoberfest2021
 <img src="https://github.com/Rajspeaks/Hacktoberfest-2021/blob/main/hacktoberfest%202021.png">
-<br>
---------------------------------------------------------------------------------------------------------------------
+
 # Rules:
 
 1. Don't spam with unnecessery files, those will be considered as invalid pull requests.<br>
