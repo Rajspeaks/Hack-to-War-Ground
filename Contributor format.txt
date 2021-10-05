@@ -1,9 +1,9 @@
 *Name:
 *Github username:
-How to many pull requests you have done here:
+How many pull requests have you done here:
 
 LinekdIn profile url:              (write N/A if you don't have)
-Twitter profoile url:              (write N/A ki you don't have)
+Twitter profile url:              (write N/A if you don't have)
 
 Country:
 Bio:
