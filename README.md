@@ -41,6 +41,8 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
 
 <br>
 
+## :handshake: Our Contributors
+
 [![](https://github.com/Rajspeaks.png?size=60)](https://github.com/Rajspeaks) &nbsp;
 [![](https://github.com/AnweshaPal26.png?size=60)](https://github.com/AnweshaPal26) &nbsp;
 [![](https://github.com/the-d3crypt3r.png?size=60)](https://github.com/the-d3crypt3r) &nbsp;
