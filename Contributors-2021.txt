@@ -38,3 +38,15 @@ Twitter profile url: N/A            (write N/A if you don't have)
 
 Country: India
 Bio: Student
+
+
+
+*Name: Mohit kadwe
+*Github username: mohitkadwe19
+How many pull requests have you done here: 1
+
+LinkedIn profile url:  https://github.com/mohitkadwe19            (write N/A if you don't have)
+Twitter profile url:   https://twitter.com/mohitpa29730937           (write N/A if you don't have)
+
+Country: India 
+Bio: computer science and engineer student
