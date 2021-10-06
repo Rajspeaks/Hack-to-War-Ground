@@ -46,7 +46,7 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
 [![](https://github.com/Rajspeaks.png?size=60)](https://github.com/Rajspeaks) &nbsp;
 [![](https://github.com/AnweshaPal26.png?size=60)](https://github.com/AnweshaPal26) &nbsp;
 [![](https://github.com/the-d3crypt3r.png?size=60)](https://github.com/the-d3crypt3r) &nbsp;
-[![](https://github.com/Rajspeaks/Hacktoberfest-2021/blob/main/avt-img/av.png?size=1)](https://github.com/mohitkadwe19) &nbsp;
+<a href="https://github.com/mohitkadwe19"><img src="https://github.com/Rajspeaks/Hacktoberfest-2021/blob/main/avt-img/av.png" height="10px" width="10px"></a> &nbsp;
 
  ## *Dont forget to star this repo and follow me!*
 
