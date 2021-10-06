@@ -3,7 +3,7 @@
 //Starts here:
 
 
-*Name:
+*Name: Anwesha Pal
 *Github username: AnweshaPal26
 How many pull requests have you done here: 1
 
@@ -16,7 +16,7 @@ Bio: Student
 
 
 
-*Name:Rajdeep Das
+*Name: Rajdeep Das
 *Github username: @Rajspeaks
 How many pull requests have you done here: 2
 
@@ -29,7 +29,7 @@ Bio: Master of Computer Application student
 
 
 
-*Name:Dipanshu Das
+*Name: Dipanshu Das
 *Github username: @the-d3crypt3r
 How many pull requests have you done here:1
 
@@ -45,8 +45,7 @@ Bio: Student
 *Github username: mohitkadwe19
 How many pull requests have you done here: 1
 
-LinkedIn profile url:  https://github.com/mohitkadwe19            (write N/A if you don't have)
-Twitter profile url:   https://twitter.com/mohitpa29730937           (write N/A if you don't have)
-
+LinkedIn profile url:  https://github.com/mohitkadwe19            
+Twitter profile url:   https://twitter.com/mohitpa29730937           
 Country: India 
 Bio: computer science and engineer student
