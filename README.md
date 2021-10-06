@@ -38,6 +38,13 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
   <img src="https://contrib.rocks/image?repo=Rajspeaks/Hacktoberfest-2021" />
 </a>
 -->
+
+<br>
+
+[![](https://github.com/Rajspeaks.png?size=50)](https://github.com/Rajspeaks)
+[![](https://github.com/AnweshaPal26.png?size=50)](https://github.com/AnweshaPal26)
+[![](https://github.com/the-d3crypt3r.png?size=50)](https://github.com/the-d3crypt3r)
+
  ## *Dont forget to star this repo and follow me!*
 
 
