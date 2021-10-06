@@ -27,11 +27,11 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
 <br>
 
 
-## :handshake: Our Contributors
+<!--## :handshake: Our Contributors
 <a href="https://github.com/Rajspeaks/Hacktoberfest-2021/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Rajspeaks/Hacktoberfest-2021" />
 </a>
-
+-->
  ## *Dont forget to star this repo and follow me!*
 
 
