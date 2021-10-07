@@ -48,7 +48,7 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
     <td> <img src="https://github.com/Rajspeaks.png?size=100"><br> <a href="https://github.com/Rajspeaks">Rajdeep Das</a> <br> Maintainer </td>
     <td> <img src="https://github.com/AnweshaPal26.png?size=100"><br> <a href="https://github.com/AnweshaPal26">Anwesha Pal</a> <br> Contributor </td>
     <td> <img src="https://github.com/the-d3crypt3r.png?size=100"><br> <a href="https://github.com/the-d3crypt3r">Dipanshu Das</a> <br> Contributor </td>
-    <td> <img src="https://github.com/Rajspeaks/Hacktoberfest-2021/blob/main/avt-img/av.png" height="100px" width="100px"><br> <a href="https://github.com/mohitkadwe19"> Mohit Kadwe <br> Contributor </td>
+    <td> <img src="https://github.com/Rajspeaks/Hacktoberfest-2021/blob/main/avt-img/av.png" height="100px" width="105px"><br> <a href="https://github.com/mohitkadwe19"> Mohit Kadwe </a> <br> Contributor </td>
   </tr>
   </table>
 
