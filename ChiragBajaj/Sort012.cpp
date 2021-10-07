@@ -58,3 +58,5 @@ int main()
 	return 0;
 }
 
+// output:
+// array after segregation 0 0 0 0 0 1 1 1 1 1 2 2 
