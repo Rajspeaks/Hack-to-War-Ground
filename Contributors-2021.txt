@@ -49,3 +49,16 @@ LinkedIn profile url:  https://github.com/mohitkadwe19
 Twitter profile url:   https://twitter.com/mohitpa29730937           
 Country: India 
 Bio: computer science and engineer student
+
+
+
+
+*Name: Chirag Bajaj
+*Github username: @CHIRAGBAJAJ1011
+How many pull requests have you done here:1
+
+LinekdIn profile url: N/A             (write N/A if you don't have)
+Twitter profile url: N/A            (write N/A if you don't have)
+
+Country: India
+Bio: Student
