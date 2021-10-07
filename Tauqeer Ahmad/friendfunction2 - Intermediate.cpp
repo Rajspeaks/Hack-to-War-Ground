@@ -42,3 +42,18 @@ int main()
 	 s1.getdata();
 	 showdata(s1);  
 }
+
+// OUTPUT 
+
+// Please enter the e_roll : 
+// 45
+// Please enter the key : 
+// 546
+//  Enter the maths marks :- 
+// 56
+//  Enter the physics marks :- 
+// 67
+//  Enrollment Number : 45
+//  Key : 546 Maths : 56 Physics : 67
+
+// Program by - TauqeerAhmad5201

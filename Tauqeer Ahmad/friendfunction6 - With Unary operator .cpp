@@ -39,3 +39,12 @@ int main()
 	  c2= -c1;
 	  c2.showdata(); 
 }
+
+// OUTPUT 
+
+// Enter the cost :- 
+// 50
+//  COST after 1Rs deduction  : 49
+
+
+// Program by - TauqeerAhmad5201

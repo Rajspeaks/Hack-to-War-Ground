@@ -36,3 +36,13 @@ int main()
 	 
 	 sum(aobj1,bobj2);
 }
+
+// OUTPUT 
+
+//  Enter the value of a :
+// 12
+//  Enter the value of b :
+// 34
+//  Sum : 46
+
+// Program by - TauqeerAhmad5201

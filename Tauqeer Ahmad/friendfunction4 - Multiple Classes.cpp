@@ -49,3 +49,16 @@ int main()
 	 C cobj5;
 	 sum(aobj1,bobj2,cobj5);
 }
+
+// OUTPUT
+// Enter the value of a :
+// 10
+//  Enter the value of b :
+// 6 
+//  Enter the value of c :- 
+// 5
+//  Sum : 16
+//  Difference of b and c 
+// -1
+
+// Program by - TauqeerAhmad5201

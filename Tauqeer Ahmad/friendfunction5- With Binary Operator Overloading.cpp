@@ -38,3 +38,16 @@ int main()
 	c3.showdata(); 
 	 
 }
+
+// OUTPUT 
+//  Enter real :- 
+// 10
+//  Enter the img 
+// 2
+//  Enter real :- 
+// 12
+//  Enter the img 
+// 50
+// 22 + 7i
+
+// Program by - TauqeerAhmad5201

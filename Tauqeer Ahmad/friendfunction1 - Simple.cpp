@@ -29,3 +29,9 @@ int main()
 	show(aobj); 
  	
 }
+
+// Output 
+
+// X : 4  Y : 6
+
+// Program by - TauqeerAhmad5201
