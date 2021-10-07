@@ -53,6 +53,10 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
   </tr>
   <td> <img src="https://github.com/khushi-0001.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/khushi-0001"> Khusi </a> <br> Contributor </td>
   </tr>
+  <tr>
+  <td> <img src="https://github.com/AbhirupB.png?size=100"><br> <a href="https://github.com/AbhirupB">Abhirup Bhattacharya</a> <br> Contributor </td>
+  
+  </tr>
   </table>
 
  ## *Dont forget to star this repo and <a href="https://github.com/Rajspeaks">follow me</a>!*
