@@ -52,7 +52,7 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
   </tr>
   </table>
 
- ## *Dont forget to star this repo and follow me!*
+ ## *Dont forget to star this repo and <a href="https://github.com/Rajspeaks">follow me</a>!*
 
 
 <br>
