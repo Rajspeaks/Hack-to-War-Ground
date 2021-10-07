@@ -63,6 +63,8 @@ Twitter profile url: N/A            (write N/A if you don't have)
 Country: India
 Bio: Student
 
+
+
 *Name: Khushi Goel
 *Github username: @khushi-0001
 How many pull requests have you done here:1
@@ -72,3 +74,15 @@ Twitter profile url: N/A            (write N/A if you don't have)
 
 Country: India
 Bio: Computer Science Student
+
+
+*Name: ABHIRUP BHATTACHARYA
+*Github username: @AbhirupB
+How many pull requests have you done here:1
+
+LinekdIn profile url: N/A             (write N/A if you don't have)
+Twitter profile url: N/A            (write N/A if you don't have)
+
+Country: India
+Bio: Student
+
