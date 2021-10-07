@@ -16,9 +16,9 @@ int main()
     str2[i]='\0';
 
     if(strcmp(str1,str2)==0)
-        printf("The given string is a palindrome\n");
+        printf("The entered string is a palindrome\n");
     else
-        printf("The given message is not a palindrome\n");
+        printf("The entered string is not a palindrome\n");
     return 0;
 }
 
@@ -26,9 +26,9 @@ int main()
 (Case 1)
 Enter the string 1:
 MADAM
-The given string is a palindrome
+The entered string is a palindrome
 
 (Case 2)
 Enter the string 1:
 HELLO
-The given message is not a palindrome*/
+The given entered string is not a palindrome*/
