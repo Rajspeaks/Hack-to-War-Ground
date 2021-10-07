@@ -51,6 +51,8 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
     <td> <img src="https://github.com/Rajspeaks/Hacktoberfest-2021/blob/main/avt-img/av.png" height="100px" width="105px"><br> <a href="https://github.com/mohitkadwe19"> Mohit Kadwe </a> <br> Contributor </td>
     <td> <img src="https://github.com/Rajspeaks/Hacktoberfest-2021/blob/main/avt-img/av.png" height="100px" width="105px"><br> <a href="https://github.com/CHIRAGBAJAJ1011"> Chirag Bajaj </a> <br> Contributor </td>
   </tr>
+  <td> <img src="https://github.com/khushi-0001.png?size=100" height="100px" width="105px"><br> <a href="https://github.com/khushi-0001"> Khusi </a> <br> Contributor </td>
+  </tr>
   </table>
 
  ## *Dont forget to star this repo and <a href="https://github.com/Rajspeaks">follow me</a>!*
