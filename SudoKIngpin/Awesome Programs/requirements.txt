@@ -1,0 +1,6 @@
+pip3 install colorama 
+pip3 install termcolor
+pip3 install easygui
+pip3 install tqdm 
+pip3 install pyttsx3
+pip3 install pyfiglet
