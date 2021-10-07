@@ -54,7 +54,7 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
   </tr>
   <tr>
   <td> <img src="https://github.com/AbhirupB.png?size=100"><br> <a href="https://github.com/AbhirupB">Abhirup <br> Bhattacharya</a> <br> Contributor </td>
-  
+  <td> <img src="https://github.com/SudoKIngpin.png?size=100"><br> <a href="https://github.com/SudoKIngpin">WhiteDevil</a> <br> Contributor </td>
   </tr>
   </table>
 
