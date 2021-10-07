@@ -62,3 +62,13 @@ Twitter profile url: N/A            (write N/A if you don't have)
 
 Country: India
 Bio: Student
+
+*Name: Khushi Goel
+*Github username: @khushi-0001
+How many pull requests have you done here:1
+
+LinekdIn profile url:https://www.linkedin.com/in/khushi-goel-417218201/
+Twitter profile url: N/A            (write N/A if you don't have)
+
+Country: India
+Bio: Computer Science Student
