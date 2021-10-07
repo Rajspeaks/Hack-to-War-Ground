@@ -43,7 +43,14 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
 
 ## :handshake: Our Contributors
 
-| [![](https://github.com/Rajspeaks.png?size=100)](https://github.com/Rajspeaks) [Rajdeep Das](https://github.com/Rajspeaks) Maintainer | [![](https://github.com/AnweshaPal26.png?size=100)](https://github.com/AnweshaPal26) [Anwesha Pal](https://github.com/AnweshaPal26)Contributor| [![](https://github.com/the-d3crypt3r.png?size=100)](https://github.com/the-d3crypt3r) [Dipansu Das](https://github.com/the-d3crypt3r) Contributor </br>| <a href="https://github.com/mohitkadwe19"><img src="https://github.com/Rajspeaks/Hacktoberfest-2021/blob/main/avt-img/av.png" height="100px" width="100px"></a>[Mohit Kadwe](https://github.com/mohitkadwe19) Contributor|
+<table>
+  <tr>
+    <td> [![](https://github.com/Rajspeaks.png?size=100)](https://github.com/Rajspeaks) <br> [Rajdeep Das](https://github.com/Rajspeaks) <br> Maintainer </td>
+    <td> [![](https://github.com/AnweshaPal26.png?size=100)](https://github.com/AnweshaPal26) [Anwesha Pal](https://github.com/AnweshaPal26)Contributor </td>
+    <td> [![](https://github.com/the-d3crypt3r.png?size=100)](https://github.com/the-d3crypt3r) [Dipansu Das](https://github.com/the-d3crypt3r) Contributor </td>
+    <td> <a href="https://github.com/mohitkadwe19"><img src="https://github.com/Rajspeaks/Hacktoberfest-2021/blob/main/avt-img/av.png" height="100px" width="100px"></a>[Mohit Kadwe](https://github.com/mohitkadwe19) Contributor </td>
+  </tr>
+  </table>
 
  ## *Dont forget to star this repo and follow me!*
 
