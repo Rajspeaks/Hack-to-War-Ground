@@ -29,6 +29,9 @@ This repository dedicated to Hacktoberfest 2021. Hacktoberfest is a month long o
 
 <br>
 
+<h4> Here is another repository if you want to contribute: <a href="https://github.com/Rajspeaks/Chrome-extension"> Hacktober-Repo </a> </h4>
+<br>
+
 For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click here... </a>
 <br>
 
@@ -55,7 +58,9 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
   <tr>
   <td> <img src="https://github.com/AbhirupB.png?size=100"><br> <a href="https://github.com/AbhirupB">Abhirup <br> Bhattacharya</a> <br> Contributor </td>
   <td> <img src="https://github.com/SudoKIngpin.png?size=100"><br> <a href="https://github.com/SudoKIngpin">WhiteDevil</a> <br> Contributor </td>
-  </tr>
+  <td> <img src="https://github.com/TauqeerAhmad5201.png?size=100"><br> <a href="https://github.com/TauqeerAhmad5201">Tauqeer Ahmad</a> <br> Contributor </td>
+  <td> <img src="https://github.com/pkini2002.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/pkini2002"> Prathiksha Kini </a> <br> Contributor </td>
+</tr>
   </table>
 
  ## *Dont forget to star this repo and <a href="https://github.com/Rajspeaks">follow me</a>!*
