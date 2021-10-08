@@ -31,3 +31,10 @@ int main() {
 
     return 0;
 }
+
+// OUTPUT 
+
+// Age = 12
+// Age = 12
+
+// Program by - TauqeerAhmad5201

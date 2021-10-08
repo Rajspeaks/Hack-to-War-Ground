@@ -26,3 +26,16 @@ int main()
 	   
 	   return 0;
 }
+
+// OUTPUT 
+
+// please enter the number of records :-
+// 2
+//  Enter the marks of students :- 
+//  Student 1:12
+//  Student 2:13
+//  Data Entered :- 
+// Student  1:12
+// Student  2:13
+
+// Program by - TauqeerAhmad5201

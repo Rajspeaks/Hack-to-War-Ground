@@ -25,3 +25,16 @@ int main()
 	 }
 	 return 0; 
 } 
+
+// OUTPUT 
+
+// Please declare the size of array here :- 2
+//  --- Entering the data ---
+// Data 1: 4
+// Data 2: 5
+
+// -- REVIEW OF DATA --
+//  Data |1|: 4
+//  Data |2|: 5
+
+// Program by - TauqeerAhmad5201

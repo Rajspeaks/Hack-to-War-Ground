@@ -28,3 +28,20 @@ int main()
      
   return 0; 
 }
+
+// OUTPUT 
+
+// Enter data for int 
+// 10 
+// Enter data for float
+// 20
+
+// *int_pointer = 10 
+// *float_pointer = 20
+
+// ---DELETED---
+
+// *int_pointer = random value 
+// *float_pointer = 20
+
+// Program by - TauqeerAhmad5201
