@@ -61,7 +61,9 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
   <td> <img src="https://github.com/TauqeerAhmad5201.png?size=100"><br> <a href="https://github.com/TauqeerAhmad5201">Tauqeer Ahmad</a> <br> Contributor </td>
   <td> <img src="https://github.com/pkini2002.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/pkini2002"> Prathiksha Kini </a> <br> Contributor </td>
   <td> <img src="https://github.com/prachibalodia.png?size=100"><br> <a href="https://github.com/prachibalodia">Prachi Balodia</a> <br> Contributor </td>
-</tr>
+  <td> <img src="https://github.com/mohitpawar530.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/mohitpawar530"> Mohit Pawar </a> <br> Contributor </td>
+  
+  </tr>
   </table>
 
  ## *Dont forget to star this repo and <a href="https://github.com/Rajspeaks">follow me</a>!*
