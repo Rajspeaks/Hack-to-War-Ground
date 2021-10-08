@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1622700719 source:c:\users\hp\documents\palindrome_program\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1622700719 source:c:\users\hp\onedrive\desktop\c lab program\6.palindrome_program\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

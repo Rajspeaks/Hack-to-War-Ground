@@ -86,3 +86,23 @@ Twitter profile url: N/A            (write N/A if you don't have)
 Country: India
 Bio: Student
 
+
+*Name: Prathiksha Kini
+*Github username: pkini2002
+How many pull requests have you done here: 1
+
+LinekdIn profile url: https://www.linkedin.com/in/prathiksha-kini-b51770202/
+Twitter profile url: https://twitter.com/prathiksha_kini  
+
+Country: India
+Bio: Student
+
+*Name: Tauqeer Ahmad
+*Github username: @TauqeerAhmad5201
+How many pull requests have you done here:1
+
+LinekdIn profile url: N/A            
+Twitter profile url: https://twitter.com/_TauqeerAhmad          
+
+Country: India
+Bio: Student and Tech-Evangelist
