@@ -78,7 +78,7 @@ Bio: Computer Science Student
 
 *Name: ABHIRUP BHATTACHARYA
 *Github username: @AbhirupB
-How many pull requests have you done here:1
+How many pull requests have you done here:3
 
 LinekdIn profile url: N/A             (write N/A if you don't have)
 Twitter profile url: N/A            (write N/A if you don't have)
@@ -106,3 +106,14 @@ Twitter profile url: https://twitter.com/_TauqeerAhmad
 
 Country: India
 Bio: Student and Tech-Evangelist
+
+
+*Name: Prachi Balodia
+*Github username: @prachibalodia
+How many pull requests have you done here:1
+
+LinekdIn profile url: N/A            
+Twitter profile url: N/A
+
+Country: India
+Bio: Student
