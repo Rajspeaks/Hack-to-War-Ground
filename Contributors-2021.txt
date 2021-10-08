@@ -117,3 +117,13 @@ Twitter profile url: N/A
 
 Country: India
 Bio: Student
+
+
+*Name: Mohit pawar
+*Github username: mohitpawar
+How many pull requests have you done here: 1
+
+LinkedIn profile url:  https://github.com/mohitpawar530        
+Twitter profile url:            
+Country: India 
+Bio: computer science and engineer student
