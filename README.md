@@ -60,6 +60,7 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
   <td> <img src="https://github.com/SudoKIngpin.png?size=100"><br> <a href="https://github.com/SudoKIngpin">WhiteDevil</a> <br> Contributor </td>
   <td> <img src="https://github.com/TauqeerAhmad5201.png?size=100"><br> <a href="https://github.com/TauqeerAhmad5201">Tauqeer Ahmad</a> <br> Contributor </td>
   <td> <img src="https://github.com/pkini2002.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/pkini2002"> Prathiksha Kini </a> <br> Contributor </td>
+  <td> <img src="https://github.com/prachibalodia.png?size=100"><br> <a href="https://github.com/prachibalodia">Prachi Balodia</a> <br> Contributor </td>
 </tr>
   </table>
 
