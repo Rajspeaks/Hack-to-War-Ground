@@ -127,3 +127,14 @@ LinkedIn profile url:  https://github.com/mohitpawar530
 Twitter profile url:            
 Country: India 
 Bio: computer science and engineer student
+
+
+*Name: Mehul Raj
+*Github username: MrM-7
+How many pull requests have you done here: 1
+
+LinekdIn profile url:              https://www.linkedin.com/in/mehulraj-7/
+Twitter profile url:              https://twitter.com/rajMehul_
+
+Country:   India
+Bio: CSE Student
