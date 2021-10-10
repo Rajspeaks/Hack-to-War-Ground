@@ -28,6 +28,11 @@ This repository dedicated to Hacktoberfest 2021. Hacktoberfest is a month long o
 9. If it is found valid, it will accepted as <code>hacktoberfest-accepted</code> 
 
 <br>
+<h3> 4 PRs are required at least to get Hacktoberfest swags. </h3>
+<br>
+Try to do more...
+
+<br>
 
 <h4> Here is another repository if you want to contribute: <a href="https://github.com/Rajspeaks/Chrome-extension"> Hacktober-Repo </a> </h4>
 <br>
