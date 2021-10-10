@@ -73,6 +73,8 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
   <td> <img src="https://github.com/octoiron.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/octoiron"> Octo Iron </a> <br> Contributor </td>
   <td> <img src="https://github.com/MrM-7.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/MrM-7"> Mehul Raj </a> <br> Contributor </td>
   <td> <img src="https://github.com/WHOISshuvam.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/WHOISshuvam"> Shuvam </a> <br> Contributor </td>
+  <td> <img src="https://github.com/Ace117MC.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/Ace117MC"> Ace117MC </a> <br> Contributor </td>
+  <td> <img src="https://github.com/ayushig2610.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/ayushig2610"> Ayushi </a> <br> Contributor </td>
   
   
   </tr>
