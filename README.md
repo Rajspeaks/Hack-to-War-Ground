@@ -18,14 +18,13 @@ This repository dedicated to Hacktoberfest 2021. Hacktoberfest is a month long o
 # Steps:
 
 1. Fork this repository.<br>
-2. Update the <a href="https://github.com/Rajspeaks/Hacktoberfest-2021/blob/main/Contributors-2021.md">Contributors-2021.md</a> file with your <a href="https://github.com/Rajspeaks/Hacktoberfest-2021/blob/main/Contributor%20format.txt">details (Click to know the format)</a>.<br>
-3. Create a folder of your name.
-4. Add a file (or some) with valid program in any language except Hello World!. For reference <a href="https://github.com/Rajspeaks/Hacktoberfest-2021/tree/main/Rajdeep%20Das">Click here</a>.
-5. Add  output along with the program.
-6. Add name in comments.
-7. Create pull request.
-8. Wait for the review.
-9. If it is found valid, it will accepted as <code>hacktoberfest-accepted</code> 
+2. Create a folder of your name. <br>
+3.  Add file/files with valid program(s), written in any language except Hello World!. Comment the output below the program. (It's mandatory). For reference <a href="https://github.com/Rajspeaks/Hacktoberfest-2021/tree/main/Rajdeep%20Das">Click here</a>. <br>
+4. Also add you name as comment.<br>
+5. Update the <a href="https://github.com/Rajspeaks/Hacktoberfest-2021/blob/main/Contributors-2021.md">Contributors-2021.txt</a> file with your <a href="https://github.com/Rajspeaks/Hacktoberfest-2021/blob/main/Contributor%20format.txt">details (Click to know the format)</a>. (Mandatory) <br>
+6. Create pull request. <br>
+7. Wait for the review. <br>
+8. If it is found valid, it will accepted as <code>hacktoberfest-accepted</code> 
 
 <br>
 <h3> 4 PRs are required at least to get Hacktoberfest swags. </h3>
