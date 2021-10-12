@@ -11,6 +11,7 @@ public:
 	Node* next;
 };
 
+// rotate the array
 void rotate(Node** head_ref, int k){
 	if (k == 0)
 		return;
