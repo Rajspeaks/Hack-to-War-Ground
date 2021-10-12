@@ -85,4 +85,4 @@ Rotated Linked list
 50  60  10  20  30  40
 */
 
-# Program by Pratish Shrivastava: @Rajspeaks
+// Program by Pratish Shrivastava: @Rajspeaks
