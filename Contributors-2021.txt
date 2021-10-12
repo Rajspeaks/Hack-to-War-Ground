@@ -15,6 +15,18 @@ Bio: Student
 
 
 
+*Name: YashPassi
+*Github username: @Yash-Passi
+How many pull requests have you done here: 1
+
+LinekdIn profile url: NA
+Twitter profile url:NA
+
+Country: India
+Bio: B.Tech Student
+
+
+
 
 *Name: Rajdeep Das
 *Github username: @Rajspeaks
