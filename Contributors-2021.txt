@@ -229,6 +229,18 @@ Country: India
 Bio: Student
 
 
+
+*Name: Nayan Vishwakarma
+*Github username:nayan1xyz
+How many pull requests have you done here:1
+
+LinekdIn profile url:https://www.linkedin.com/in/nayan-vishwakarma-086286187/         
+Twitter profile url: NA
+
+Country: India
+Bio: Student
+
+
 *Name: Pratish Shrivastava
 *Github username: PratishShrivastava
 How many pull requests have you done here: 1
@@ -238,3 +250,4 @@ Twitter profile url:              https://twitter.com/PratishShrivas1
 
 Country: India
 Bio: Student
+
