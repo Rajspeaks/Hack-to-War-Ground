@@ -194,3 +194,14 @@ Twitter profile url:   N/A
 
 Country: Pakistan
 Bio: Student
+
+
+*Name: Shreya Joshi
+*Github username: shreyaj1
+How many pull requests have you done here: 2
+
+LinekdIn profile url: https://www.linkedin.com/in/shreya-joshi-211a07146/
+Twitter profile url: N/A    
+
+Country: India
+Bio: Student/Web-Developer
