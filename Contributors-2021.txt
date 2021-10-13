@@ -37,6 +37,16 @@ Bio: B.Tech Student
 
 
 
+*Name: Harsh Paliwal
+*Github username: @paliwalharsh
+How many pull requests have you done here: 1
+
+LinekdIn profile url: NA
+Twitter profile url:NA
+
+Country: India
+Bio: B.Tech Student of NSUT
+
 
 *Name: Dipanshu Das
 *Github username: @the-d3crypt3r
