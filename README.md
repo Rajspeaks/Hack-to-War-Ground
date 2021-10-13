@@ -93,7 +93,7 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
   </tr>
 
  <tr>
-    <td> <img src="https://github.com/uru0120.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/uru0120> Urwashi Kumrawat </a> <br> Contributor </td>
+    <td> <img src="https://github.com/uru0120.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/uru0120"> Urwashi Kumrawat </a> <br> Contributor </td>
     
 
 </tr>
