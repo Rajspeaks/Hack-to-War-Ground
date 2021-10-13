@@ -80,9 +80,18 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
     <td> <img src="https://github.com/tanvinimbalkar.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/tanvinimbalkar"> TanviN </a> <br> Contributor </td>
     <td> <img src="https://github.com/shreyaj1.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/shreyaj1"> Shreya Joshi </a> <br> Contributor </td>
     <td> <img src="https://github.com/Yash-passi.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/Yash-passi"> Yash </a> <br> Contributor </td>
-  
-
-</tr>
+    <td> <img src="https://github.com/sakshamceo.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/sakshamceo"> Saksham Garg </a> <br> Contributor </td>
+    <td> <img src="https://github.com/sanjaysanjel019.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/sanjaysanjel019"> Sanjay Sanjel </a> <br> Contributor </td>
+  </tr>
+  <tr>
+    <td> <img src="https://github.com/vibha-v-657.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/vibha-v-657"> Vibha </a> <br> Contributor </td>
+    <td> <img src="https://github.com/algo-geek.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/algo-geek"> Apara Biswas </a> <br> Contributor </td>
+    <td> <img src="https://github.com/PratishShrivastava.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/PratishShrivastava"> Pratish Shrivastava </a> <br> Contributor </td>
+    <td> <img src="https://github.com/sparsh9.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/sparsh9"> Sparsh Garg </a> <br> Contributor </td>
+    <td> <img src="https://github.com/nayan1xyz.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/nayan1xyz"> Nayan Vishwakarma </a> <br> Contributor </td>
+    <td> <img src="https://github.com/imshivam18.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/imshivam18"> Shivam Chopra </a> <br> Contributor </td>
+    
+  </tr>
   </table>
 
  ## *Dont forget to star this repo and <a href="https://github.com/Rajspeaks">follow me</a>!*
