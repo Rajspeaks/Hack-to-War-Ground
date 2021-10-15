@@ -283,3 +283,13 @@ Twitter profile url:              N/A
 Country:   India
 Bio: CSE Student
 
+
+*Name: Archit Gupta
+*Github username: i-archit-gupta
+How many pull requests have you done here: 2
+
+LinekdIn profile url: https://www.linkedin.com/in/archit-gupta-339499198/ 
+Github profile url:   https://github.com/i-archit-gupta         
+
+Country: India
+Bio: CSE Student
