@@ -97,6 +97,7 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
     <td> <img src="https://github.com/paliwalharsh.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/paliwalharsh"> Harsh Paliwal </a> <br> Contributor </td>
     <td> <img src="https://github.com/wishsagarks.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/wishsagarks"> SAGAR SATAPATHY </a> <br> Contributor </td>
     <td> <img src="https://github.com/BeLimitLess.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/BeLimitLess"> Mohit Kumar Saini </a> <br> Contributor </td>
+    <td> <img src="https://github.com/i-archit-gupta.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/i-archit-gupta"> Archit Gupta  </a> <br> Contributor </td>
 
 </tr>
 
