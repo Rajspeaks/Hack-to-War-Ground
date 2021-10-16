@@ -293,3 +293,13 @@ Github profile url:   https://github.com/i-archit-gupta
 
 Country: India
 Bio: CSE Student
+
+*Name: Joseph Jennings
+*Github username: JosephTJennings
+How many pull requests have you done here: 0
+
+LinekdIn profile url: https://www.linkedin.com/in/josephjennings0/
+Twitter profile url: N/A
+
+Country: United States of America
+Bio: Computer Science student looking to gain experience.
