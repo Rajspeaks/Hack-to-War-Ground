@@ -99,6 +99,12 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
     <td> <img src="https://github.com/BeLimitLess.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/BeLimitLess"> Mohit Kumar Saini </a> <br> Contributor </td>
     <td> <img src="https://github.com/i-archit-gupta.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/i-archit-gupta"> Archit Gupta  </a> <br> Contributor </td>
     <td> <img src="https://github.com/JosephTJennings.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/JosephTJennings"> Joseph Jennings   </a> <br> Contributor </td>
+</tr>
+
+<tr>
+
+<td> <img src="https://github.com/kartikeya47.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/kartikeya47"> Kartikeya Rawat </a> <br> Contributor </td>
+<td> <img src="https://github.com/Tanmay-s55.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/Tanmay-s55"> Tanmay Sharma </a> <br> Contributor </td>
 
 
 </tr>
