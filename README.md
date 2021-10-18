@@ -47,7 +47,7 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
 -->
 
 <br>
-## 👨‍💻 Maintainer
+## :man_technologist: Maintainer
 
 <table>
   <tr>
