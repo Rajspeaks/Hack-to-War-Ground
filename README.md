@@ -1,6 +1,8 @@
 # Hacktoberfest2021
 <img src="https://github.com/Rajspeaks/Hacktoberfest-2021/blob/main/hacktoberfest%202021.png">
 
+<p align="center"> ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/Rajspeaks/Hacktoberfest-2021) </p>
+
 # About:
 
 This repository dedicated to Hacktoberfest 2021. Hacktoberfest is a month long open source contribution program held in October every year by Digital Ocean. This is a beginner-friendly open source event where anyone can participate from anywhere across the globe.
