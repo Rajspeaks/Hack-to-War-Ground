@@ -130,10 +130,15 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
 <td> <img src="https://github.com/itechsubhan.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/itechsubhan"> Mohd Abdul Subhan </a> <br> Contributor </td>
 <td> <img src="https://github.com/MOHAMMADMODASSIR.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/MOHAMMADMODASSIR"> MOHAMMADMODASSIR </a> <br> Contributor </td>
   <td> <img src="https://github.com/ItzMeAditya.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/ItzMeAditya"> Aditya Singh </a> <br> Contributor </td>
-
-
-
 </tr>
+  
+<tr>
+<td> <img src="https://github.com/patriciafelixx.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/patriciafelixx"> Patricia Felix </a> <br> Contributor </td>
+<td> <img src="https://github.com/Sneh16Shah.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/Sneh16Shah"> Sneh Shah </a> <br> Contributor </td>
+  
+  
+  
+  </tr>
 
   </table>
 
