@@ -27,3 +27,13 @@ int main()
 
     return 0;
 }
+
+// I/P = 1
+// O/P = #
+
+// I/P = 3
+// O/P =   #
+          ##
+         ###
+
+// Mohammad Modassir Iqbal
