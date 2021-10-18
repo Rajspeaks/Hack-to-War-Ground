@@ -2,6 +2,15 @@
 -------------------------------------------------------------------------------------------------------------------
 //Starts here:
 
+*Name: Mohd Abdul Subhan
+*Github username: @itechsubhan
+How many pull requests have you done here: 2
+
+LinekdIn profile url: https://www.linkedin.com/in/mohdabdulsubhan/              
+Twitter profile url:  https://twitter.com/AbdulSubhan60           
+
+Country: India
+Bio: IT Student @ MJCET
 
 *Name: Anwesha Pal
 *Github username: AnweshaPal26
