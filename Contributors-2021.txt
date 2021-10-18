@@ -376,3 +376,13 @@ Twitter profile url: N/A
 
 Country: India
 Bio: CSE Student
+
+*Name: Sneh Shah
+*Github username: Sneh16Shah
+How many pull requests have you done here: 1
+
+LinekdIn profile url: https://www.linkedin.com/in/sneh-shah-b53328201/
+Twitter profile url: N/A    
+
+Country: India
+Bio: CSE Student
