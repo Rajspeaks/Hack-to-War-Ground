@@ -120,6 +120,11 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
 
 <tr>
 <td> <img src="https://github.com/zuberrahman.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/zuberrahman"> Zuber Rahman </a> <br> Contributor </td>
+<td> <img src="https://github.com/Death84L.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/Death84L"> Death84L </a> <br> Contributor </td>
+<td> <img src="https://github.com/akanksha57.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/akanksha57"> Akanksha Singh </a> <br> Contributor </td>
+<td> <img src="https://github.com/itechsubhan.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/itechsubhan"> Mohd Abdul Subhan </a> <br> Contributor </td>
+<td> <img src="https://github.com/MOHAMMADMODASSIR.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/MOHAMMADMODASSIR"> MOHAMMADMODASSIR </a> <br> Contributor </td>
+
 
 
 </tr>
