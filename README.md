@@ -3,7 +3,7 @@
 
 ### HITS
   
-  ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/Rajspeaks/Hacktoberfest-2021) 
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Rajspeaks/Hacktoberfest-2021) 
 
 
 # About:
