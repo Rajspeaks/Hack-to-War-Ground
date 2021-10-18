@@ -11,7 +11,7 @@ int main()
 
     char s[n];
 
-    printf("Enter s1 = ");
+    printf("Enter s = ");
     scanf("%s",s);
 
     int l=count_distinct_char(s);
@@ -44,3 +44,9 @@ int count_distinct_char(char* str)
 	return c;
 
 }
+
+// I/P = How many characters you want to write = 5
+//       Enter s = apple
+// O/P = "Distinct characters in apple is 4
+
+// Mohammad Modassir Iqbal
