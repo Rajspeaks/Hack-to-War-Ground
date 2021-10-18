@@ -345,3 +345,14 @@ Twitter profile url: https://twitter.com/Zuber07579882
 
 Country: India
 Bio: CSE Student
+
+
+*Name: Ayush Anand
+*Github username: ayushanand09
+How many pull requests have you done here: 1
+
+LinekdIn profile url: https://www.linkedin.com/in/ayush-anand-238305204/
+Twitter profile url: N/A    
+
+Country: India
+Bio: CSE Student
