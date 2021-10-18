@@ -135,6 +135,7 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
 <tr>
 <td> <img src="https://github.com/patriciafelixx.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/patriciafelixx"> Patricia Felix </a> <br> Contributor </td>
 <td> <img src="https://github.com/Sneh16Shah.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/Sneh16Shah"> Sneh Shah </a> <br> Contributor </td>
+<td> <img src="https://github.com/alhad-balak.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/alhad-balak"> Abhinav Kumar Gupta </a> <br> Contributor </td>
   
   
   
