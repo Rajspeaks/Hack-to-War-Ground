@@ -26,3 +26,11 @@ while (n >= 5):
 count += n
 
 print(count)
+
+# I/P = Change owed: 1
+# O/P = 3
+
+# I/P = Change owed: 0.35
+# O/P = 2
+
+# Mohammad Modassir Iqbal
