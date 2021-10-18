@@ -2,11 +2,8 @@
 <img src="https://github.com/Rajspeaks/Hacktoberfest-2021/blob/main/hacktoberfest%202021.png">
 <br>
 
-<p align="center"> 
-  
   ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/Rajspeaks/Hacktoberfest-2021) 
 
-</p>
 
 # About:
 
