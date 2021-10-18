@@ -365,3 +365,14 @@ Twitter profile url: N/A
 
 Country: India
 Bio: CSE Student
+
+
+*Name: Aditya Singh
+*Github username: ItzMeAditya
+How many pull requests have you done here: 1
+
+LinekdIn profile url: N/A
+Twitter profile url: N/A    
+
+Country: India
+Bio: CSE Student
