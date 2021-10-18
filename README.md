@@ -47,12 +47,19 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
 -->
 
 <br>
+## 👨‍💻 Maintainer
+
+<table>
+  <tr>
+    <td> <img src="https://github.com/Rajspeaks.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/Rajspeaks">Rajdeep Das</a> <br> Maintainer </td>
+  </tr>
+  </table>
 
 ## :handshake: Our Contributors
 
 <table>
   <tr>
-    <td> <img src="https://github.com/Rajspeaks.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/Rajspeaks">Rajdeep Das</a> <br> Maintainer </td>
+    <td> <img src="https://github.com/Rajspeaks.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/Rajspeaks">Rajdeep Das</a> <br> M + C </td>
     <td> <img src="https://github.com/AnweshaPal26.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/AnweshaPal26">Anwesha Pal</a> <br> Contributor </td>
     <td> <img src="https://github.com/the-d3crypt3r.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/the-d3crypt3r">Dipanshu Das</a> <br> Contributor </td>
     <td> <img src="https://github.com/mohitkadwe19.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/mohitkadwe19"> Mohit Kadwe </a> <br> Contributor </td>
@@ -107,6 +114,8 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
 <td> <img src="https://github.com/Tanmay-s55.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/Tanmay-s55"> Tanmay Sharma </a> <br> Contributor </td>
 <td> <img src="https://github.com/ayush7801.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/ayush7801"> Ayush Tiwari </a> <br> Contributor </td>
 <td> <img src="https://github.com/Noorfatimadev.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/Noorfatimadev"> Noor Fatima </a> <br> Contributor </td>
+<td> <img src="https://github.com/namx05.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/namx05"> Naman Jain </a> <br> Contributor </td>
+<td> <img src="https://github.com/zuberrahman.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/zuberrahman"> Zuber Rahman </a> <br> Contributor </td>
 
 
 </tr>
