@@ -13,6 +13,17 @@ Country: India
 Bio: Student of Computer Science
 
 
+*Name: Rathod Vinil
+*Github username: vinilRathod
+How many pull requests you have done here: 1
+
+Linkedin profile url: https://www.linkedin.com/in/vinil-rathod-078262176
+Twitter profile url: https://twitter.com/rathod_vinil
+
+Country: India
+Bio: Final Year CSE Guy
+
+
 *Name: Anwesha Pal
 *Github username: AnweshaPal26
 How many pull requests have you done here: 1
