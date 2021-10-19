@@ -2,27 +2,6 @@
 -------------------------------------------------------------------------------------------------------------------
 //Starts here:
 
-*Name: Mohammad Modassir Iqbal
-*Github username: MOHAMMADMODASSIR (https://github.com/MOHAMMADMODASSIR)
-How many pull requests you have done here: 6
-
-Linkedin profile url: https://www.linkedin.com/in/mohammad-modassir-iqbal-7141621b7
-Twitter profile url: N/A
-
-Country: India
-Bio: Student of Computer Science
-
-
-*Name: Rathod Vinil
-*Github username: vinilRathod
-How many pull requests you have done here: 1
-
-Linkedin profile url: https://www.linkedin.com/in/vinil-rathod-078262176
-Twitter profile url: https://twitter.com/rathod_vinil
-
-Country: India
-Bio: Final Year CSE Guy
-
 
 *Name: Anwesha Pal
 *Github username: AnweshaPal26
@@ -408,3 +387,24 @@ Twitter profile url:  https://twitter.com/AbdulSubhan60
 
 Country: India
 Bio: IT Student @ MJCET
+
+*Name: Mohammad Modassir Iqbal
+*Github username: MOHAMMADMODASSIR (https://github.com/MOHAMMADMODASSIR)
+How many pull requests you have done here: 6
+
+Linkedin profile url: https://www.linkedin.com/in/mohammad-modassir-iqbal-7141621b7
+Twitter profile url: N/A
+
+Country: India
+Bio: Student of Computer Science
+
+
+*Name: Rathod Vinil
+*Github username: vinilRathod
+How many pull requests you have done here: 1
+
+Linkedin profile url: https://www.linkedin.com/in/vinil-rathod-078262176
+Twitter profile url: https://twitter.com/rathod_vinil
+
+Country: India
+Bio: Final Year CSE Guy
