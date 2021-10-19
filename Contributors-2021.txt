@@ -2,6 +2,17 @@
 -------------------------------------------------------------------------------------------------------------------
 //Starts here:
 
+*Name: Mohammad Modassir Iqbal
+*Github username: MOHAMMADMODASSIR (https://github.com/MOHAMMADMODASSIR)
+How many pull requests you have done here: 6
+
+Linkedin profile url: https://www.linkedin.com/in/mohammad-modassir-iqbal-7141621b7
+Twitter profile url: N/A
+
+Country: India
+Bio: Student of Computer Science
+
+
 *Name: Anwesha Pal
 *Github username: AnweshaPal26
 How many pull requests have you done here: 1
