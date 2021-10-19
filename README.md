@@ -138,6 +138,12 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
 <td> <img src="https://github.com/alhad-balak.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/alhad-balak"> Abhinav Kumar Gupta </a> <br> Contributor </td>
 <td> <img src="https://github.com/HarshitSrma.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/HarshitSrma"> HarshitSrma </a> <br> Contributor </td>
 <td> <img src="https://github.com/yodifm.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/yodifm"> Yodi Fakhri  </a> <br> Contributor </td>
+<td> <img src="https://github.com/Naman754.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/Naman754"> Naman754  </a> <br> Contributor </td>
+  </tr>
+  
+  <tr>
+    <td> <img src="https://github.com/vinilRathod.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/vinilRathod"> VINIL RATHOD  </a> <br> Contributor </td>
+    
   </tr>
 
   </table>
