@@ -150,7 +150,9 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
   
   <tr>
     <td> <img src="https://github.com/vinilRathod.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/vinilRathod"> VINIL RATHOD  </a> <br> Contributor </td>
-    
+    <td> <img src="https://github.com/sayan-sikder.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/sayan-sikder"> Sayan Sikder </a> <br> Contributor </td>
+   
+ 
   </tr>
 
   </table>
