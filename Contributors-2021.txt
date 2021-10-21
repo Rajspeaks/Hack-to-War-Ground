@@ -419,5 +419,13 @@ Twitter profile : NA
 Country: India
 Bio:3rd Year CSE GUY
 
+*Name: Palash Motwani
+*Github username: Palash-05
+How many pull requests have you done here: 1
 
+LinekdIn profile url: https://www.linkedin.com/in/palash-motwani-785317192/
+Twitter profile url: NA   
+
+Country: India
+Bio: Student
 
