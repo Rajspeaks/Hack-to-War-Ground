@@ -19,3 +19,12 @@ int main()
         printf("%c is a Consonant", ch);
     return 0;
 }
+
+
+//output:
+// Enter an alphabet: k
+// k is a Consonant
+
+
+// Enter an alphabet: a
+// a is a vowel
