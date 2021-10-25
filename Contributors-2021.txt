@@ -451,4 +451,14 @@ Twitter profile url: N/A
 Country: India
 Bio: Student
 
+*Name: Moizza Azhar
+*Github username: @imoizza
+How many pull requests have you done here: 1
+
+LinekdIn profile url: https://www.linkedin.com/in/moizza-azhar-3b7170200/
+Twitter profile url: N/A   
+
+Country: Pakistan
+Bio: Student
+
 
