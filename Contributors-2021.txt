@@ -2,17 +2,6 @@
 -------------------------------------------------------------------------------------------------------------------
 //Starts here:
 
-*Name: Abhishek Bhatt
-*Github username: @AbhishekBhatt072003 
-How many pull requests have you done here: 1
-
-LinekdIn profile url: https://www.linkedin.com/in/abhishek-bhatt-739336215/
-Twitter profile url: N/A   
-
-Country: India
-Bio: Student
-
-
 *Name: Anwesha Pal
 *Github username: AnweshaPal26
 How many pull requests have you done here: 1
@@ -35,6 +24,9 @@ Country: India
 Bio: Master of Computer Application student
 
 
+-----------------------------------------------------------------------------------------------------------------------
+
+
 *Name: YashPassi
 *Github username: @Yash-Passi
 How many pull requests have you done here: 1
@@ -44,7 +36,6 @@ Twitter profile url:NA
 
 Country: India
 Bio: B.Tech Student
-
 
 
 *Name: Harsh Paliwal
@@ -69,7 +60,6 @@ Country: India
 Bio: Student
 
 
-
 *Name: Mohit kadwe
 *Github username: mohitkadwe19
 How many pull requests have you done here: 1
@@ -78,8 +68,6 @@ LinkedIn profile url:  https://github.com/mohitkadwe19
 Twitter profile url:   https://twitter.com/mohitpa29730937           
 Country: India 
 Bio: computer science and engineer student
-
-
 
 
 *Name: Chirag Bajaj
@@ -91,7 +79,6 @@ Twitter profile url: N/A            (write N/A if you don't have)
 
 Country: India
 Bio: Student
-
 
 
 *Name: Khushi Goel
@@ -191,7 +178,6 @@ Country:    India
 Bio: Student
 
 
-
 *Name: Uswah
 *Github username: Uswah-Saeed
 How many pull requests have you done here: 1
@@ -226,7 +212,6 @@ Twitter profile url: N/A
 Country: India
 Bio: Student/Web-Developer
 
-
 *Name: Apara Biswas
 *Github username: algo-geek
 How many pull requests have you done here: 2
@@ -247,7 +232,6 @@ Twitter profile url: NA
 
 Country: India
 Bio: Student
-
 
 
 *Name:	Urwashi Kumrawat
@@ -304,6 +288,7 @@ Github profile url:   https://github.com/i-archit-gupta
 Country: India
 Bio: CSE Student
 
+
 *Name: Joseph Jennings
 *Github username: JosephTJennings
 How many pull requests have you done here: 0
@@ -313,6 +298,7 @@ Twitter profile url: N/A
 
 Country: United States of America
 Bio: Computer Science student looking to gain experience.
+
 
 *Name: Tanmay Sharma
 *Github username: Tanmay-s55
@@ -378,6 +364,7 @@ Twitter profile url: N/A
 Country: India
 Bio: CSE Student
 
+
 *Name: Sneh Shah
 *Github username: Sneh16Shah
 How many pull requests have you done here: 1
@@ -398,6 +385,7 @@ Twitter profile url:  https://twitter.com/AbdulSubhan60
 Country: India
 Bio: IT Student @ MJCET
 
+
 *Name: Mohammad Modassir Iqbal
 *Github username: MOHAMMADMODASSIR (https://github.com/MOHAMMADMODASSIR)
 How many pull requests you have done here: 6
@@ -407,6 +395,7 @@ Twitter profile url: N/A
 
 Country: India
 Bio: Student of Computer Science
+
 
 *Name: Manav Naharwal
 *Github username: mastermanav09
@@ -418,6 +407,7 @@ Twitter profile url: NA
 Country: India
 Bio: IT Student
 
+
 *Name: Rathod Vinil
 *Github username: vinilRathod
 How many pull requests you have done here: 1
@@ -427,6 +417,7 @@ Twitter profile url: https://twitter.com/rathod_vinil
 
 Country: India
 Bio: Final Year CSE Guy
+
 
 *Name: Ankit Saurabh
 *Github username:justacsguy
@@ -438,6 +429,7 @@ Twitter profile : NA
 Country: India
 Bio:3rd Year CSE GUY
 
+
 *Name: Palash Motwani
 *Github username: Palash-05
 How many pull requests have you done here: 1
@@ -448,5 +440,15 @@ Twitter profile url: NA
 Country: India
 Bio: Student
 
+
+*Name: Abhishek Bhatt
+*Github username: @AbhishekBhatt072003 
+How many pull requests have you done here: 1
+
+LinekdIn profile url: https://www.linkedin.com/in/abhishek-bhatt-739336215/
+Twitter profile url: N/A   
+
+Country: India
+Bio: Student
 
 
