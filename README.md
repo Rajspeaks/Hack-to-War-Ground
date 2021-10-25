@@ -160,6 +160,7 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
   <tr>
     <td> <img src="https://github.com/Sau2001rabh.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/Sau2001rabh"> Saurabh Siddharth </a> <br> Contributor </td> 
     <td> <img src="https://github.com/AbhishekBhatt072003.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/AbhishekBhatt072003"> Abhishek Bhatt </a> <br> Contributor </td> 
+    <td> <img src="https://github.com/mastermanav09.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/mastermanav09"> Manav Naharwal </a> <br> Contributor </td> 
   
    </tr>
 
