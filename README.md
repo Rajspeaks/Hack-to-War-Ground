@@ -163,6 +163,7 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
     <td> <img src="https://github.com/mastermanav09.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/mastermanav09"> Manav Naharwal </a> <br> Contributor </td> 
     <td> <img src="https://github.com/Aravindha1234u.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/Aravindha1234u"> Aravindha Hariharan </a> <br> Contributor </td> 
     <td> <img src="https://github.com/imoizza.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/imoizza"> Moizza Azhar </a> <br> Contributor </td> 
+    <td> <img src="https://github.com/LudovicoSforza.png?size=100" height="100px" width="100px"><br> <a href="https://github.com/LudovicoSforza"> Ludovico </a> <br> Contributor </td> 
   
    </tr>
 
