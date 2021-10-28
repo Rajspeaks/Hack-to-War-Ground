@@ -491,3 +491,13 @@ LinekdIn profile url:             N/A
 Twitter profile url: 		  N/A
 Country: Pakistan
 Bio: Student
+
+
+*Name: Yash Raj Mani
+*Github username: yashrajmani
+How many pull requests have you done here: 1
+
+LinekdIn profile url:  https://www.linkedin.com/in/yashrajmani/       
+Twitter profile url: 		  N/A
+Country: India
+Bio: Student
