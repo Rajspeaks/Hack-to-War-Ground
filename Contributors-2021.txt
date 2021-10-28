@@ -471,3 +471,13 @@ Twitter profile url: https://twitter.com/aravindha1234u
 
 Country: India
 Bio: Student
+
+*Name: Ludovico Piero
+*Github username: LudovicoSforza
+How many pull requests have you done here: 1
+
+LinekdIn profile url:              (write N/A if you don't have)
+Twitter profile url: https://twitter.com/Ludovico1337
+
+Country: Australia
+Bio: Student
