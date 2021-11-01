@@ -178,6 +178,8 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
 
   </table>
 
+** If you see someone's profile link is not working or not found, then he/she has changed username or deleted account.
+
  ## *Dont forget to star this repo and <a href="https://github.com/Rajspeaks">follow me</a>!*
 
 
