@@ -29,7 +29,7 @@ This repository dedicated to Hacktoberfest 2021. Hacktoberfest is a month long o
 5. Update the <a href="https://github.com/Rajspeaks/Hacktoberfest-2021/blob/main/Contributors-2021.md">Contributors-2021.txt</a> file with your <a href="https://github.com/Rajspeaks/Hacktoberfest-2021/blob/main/Contributor%20format.txt">details (Click to know the format)</a>. (Mandatory) <br>
 6. Create pull request. <br>
 7. Wait for the review. <br>
-8. If it is found valid, it will accepted as <code>hacktoberfest-accepted</code> 
+8. If it is found valid, it will be accepted as <code>hacktoberfest-accepted</code> 
 
 <br>
 <h3> 4 PRs are required at least to get Hacktoberfest swags. </h3>
