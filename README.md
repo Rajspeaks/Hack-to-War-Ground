@@ -67,7 +67,9 @@ For <a href="https://hacktoberfest.digitalocean.com/faq">Hacktoberfest FAQ click
 <code><a href="https://linkedin.com/in/itsrajdeepdas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>&nbsp;
 
 
-## :handshake: Our Contributors
+## :handshake: Our Contributors: Congratulations to all! 
+
+Below are those people who have successsfully contributed to Hacktoberfest 2021
 
 <table>
   <tr>
