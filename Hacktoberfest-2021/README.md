@@ -1,12 +1,6 @@
 <img width="2295" alt="hacktoberfest 2021" src="https://user-images.githubusercontent.com/44817007/194753467-2b073004-a686-4fef-b5b8-f859045d5029.png">
 
 # Hacktoberfest2021
-<img src="https://github.com/Rajspeaks/Hacktoberfest-2021/blob/main/hacktoberfest%202021.png">
-
-### HITS
-  
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Rajspeaks/Hacktoberfest-2021) 
-
 
 # About:
 
