@@ -6,4 +6,4 @@ LinekdIn profile url: https://www.linkedin.com/in/rishi-verma-b63580206
 Twitter profile url: N/A
 
 Country: India
-Bio: I am a 3rd year Btech IT grad student.
+Bio: Student
