@@ -1,5 +1,5 @@
 # Hack-to-War-Ground
-Welcome to Hack-to-war-ground. An open source contribution playground for beginners.
+Welcome to Hack-to-war-Ground. An open source contribution playground for beginner level coder.
 
 ## :handshake: Our all time list of Contributors
 <a href="https://github.com/Rajspeaks/Hacktoberfest-2021/graphs/contributors">
