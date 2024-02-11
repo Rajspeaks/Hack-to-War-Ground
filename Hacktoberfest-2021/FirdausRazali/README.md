@@ -9,7 +9,7 @@
   
 **Country:** Malaysia  
 
-**Bio:** Pursuing a Bachelor of Information Technology (Hons) in Software Engineering. Baby steps learning everything I need to know to land a software engineer job as soon as I graduate. Pray the best for me! Love to contribute to open source project, and start my OSP too. Soon.I highly value guidance and believe in continuous learning and professional growth, and I am eager to collaborate and explore new opportunities with like-minded professionals.
+**Bio:** Pursuing a Bachelor of Information Technology (Hons) majoring in Software Engineering. Baby steps learning everything I need to know to land a software engineer job as soon as I graduate. Pray the best for me! Love to contribute to open source project, and start my OSP too. Soon.I highly value guidance and believe in continuous learning and professional growth, and I am eager to collaborate and explore new opportunities with like-minded professionals.
 - Follow me [GitHub](https://github.com/ausrazali)
 <hr>
 
